@@ -40,6 +40,8 @@ Git / GitHub - working on same project (collaboration in creative computing proj
 <img width="856" alt="image" src="https://github.com/user-attachments/assets/0519c896-1b2f-4e69-8217-07f006740028" />
 <br>
 searched how to draw an heart through coding.<br>
+<img width="928" alt="image" src="https://github.com/user-attachments/assets/1eadd60a-07f2-469b-b5d4-4771364fe01a" />
+
 <br>
 <img width="915" alt="image" src="https://github.com/user-attachments/assets/5f9cbeab-c36d-447e-9398-1825c420efea" />
 <img width="582" alt="image" src="https://github.com/user-attachments/assets/578014fb-a028-4661-a8da-01ef1b5ac038" />
