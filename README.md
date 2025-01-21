@@ -5,10 +5,10 @@
 [Website Link] https://josephinepark.github.io/workshop-task-2/
 
 ## Task 
-[] Try using IDE running locally on your own computer (VSCodium or VSCode)
-[] use setTimeout and setInterval functions
-[] Experiment with at least one new item from the https://p5js.org/reference/
-[] Create a Github loging, include a README file in each repository with a link to the webpage, post a link to your Github account on Canvas
+[] Try using IDE running locally on your own computer (VSCodium or VSCode)<br>
+[] use setTimeout and setInterval functions<br>
+[] Experiment with at least one new item from the https://p5js.org/reference/<br>
+[] Create a Github loging, include a README file in each repository with a link to the webpage, post a link to your Github account on Canvas<br>
 
 ## Notes 
 IDE 
