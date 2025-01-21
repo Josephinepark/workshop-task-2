@@ -2,7 +2,7 @@
 
 ## Workshop 2 : Coding Environments & Sharing Work
 
-[Website Link] 
+[Website Link] https://josephinepark.github.io/workshop-task-2/
 
 ## Task 
 [] Try using IDE running locally on your own computer (VSCodium or VSCode)
