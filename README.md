@@ -1,42 +1,6 @@
-# workshop-task-2
-## Workshop 2 : Coding Environments & Sharing Work
+Link - https://garuinja.github.io/workshop-task-2/
+Since the task involves using a timer for the most part, my plan for this is to make some shapes move at for an interval and when the interval is over, a different shape will pop up. Like a jumpscare of sort.
 
-### Notes 
-IDE 
-- visual studio code (run by Microsoft)
-- VSCodium
+Update nevermind, I decided to go with something simple. I used quad which I didn't know much about so I just skimmed the reference page (https://p5js.org/reference/p5/quad/). With quad I made some sort of shape that was similar to a butterfly. I then used setTimeout for the butterfly and put it on a timer of 2 seconds, I also used the mousePressed function to allow the user to create butterflies.
 
-#### VSCodium
-- live preview / p5.js & vscode extensions / live server
-  
-- ctrl + shift + P (search bar) -> create p5.js project -> open the file -> able to see everything from p5.js
-  
-- Go Live (button on the right down side) -> will open up a new window and show the executed one
-  
-- file -> open folder
-<br>
-setTimeout (name of the function, time) /1000=1sec 
-
-mousePressed() /able to make to by controlled with the mouse
-<br>
-
-setInterval
-
-clearInterval
-<br>
-
-Git / GitHub - working on same project (collaboration in creative computing project)
-
-## Process and Experimentation
-
-<img width="389" alt="image" src="https://github.com/user-attachments/assets/830b02d4-2901-46bd-b183-2b11c970b5b0" />
-
-<img width="855" alt="image" src="https://github.com/user-attachments/assets/5e03f5a8-6741-4129-9cd2-debb1e8f988a" />
-
-<img width="856" alt="image" src="https://github.com/user-attachments/assets/0519c896-1b2f-4e69-8217-07f006740028" />
-<br>
-searched how to draw an heart through coding.<br>
-<br>
-<img width="915" alt="image" src="https://github.com/user-attachments/assets/5f9cbeab-c36d-447e-9398-1825c420efea" />
-
-<img width="582" alt="image" src="https://github.com/user-attachments/assets/578014fb-a028-4661-a8da-01ef1b5ac038" />
+I also used arc to make a Pacman shape but I couldn't figure out how to angle it to make actually look like Pacman so I used an arc form which made it look like Pacman was looking up from the arc reference page(https://p5js.org/reference/p5/arc/). For Pacman I placed it in the setInterval function and put the interval as 50 milliseconds so that the Pacmen would appear every 50 milliseconds.
