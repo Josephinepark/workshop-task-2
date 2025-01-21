@@ -1,6 +1,6 @@
 ##### workshop-task-2
 
-## Workshop 2 : Coding Environments & Sharing Work
+# Workshop 2 : Coding Environments & Sharing Work
 
 [Website Link] https://josephinepark.github.io/workshop-task-2/
 
