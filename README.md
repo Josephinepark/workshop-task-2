@@ -46,8 +46,7 @@ searched how to draw an heart through coding.<br>
 <img width="915" alt="image" src="https://github.com/user-attachments/assets/5f9cbeab-c36d-447e-9398-1825c420efea" />
 <img width="582" alt="image" src="https://github.com/user-attachments/assets/578014fb-a028-4661-a8da-01ef1b5ac038" />
 <br>
-I have watched a tutorial related to setTimeout() and setInterval.<br>
-https://www.daleseo.com/js-timer/
+
 
 ## codes
 
@@ -55,3 +54,9 @@ https://www.daleseo.com/js-timer/
 ## Furture Developement
 
 ## Reference / other sources that helped me
+<br>
+https://editor.p5js.org/Mithru/sketches/Hk1N1mMQg<br>
+<Br>
+https://www.daleseo.com/js-timer/<br>
+<br>
+
