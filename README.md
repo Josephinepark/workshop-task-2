@@ -10,7 +10,7 @@
 [] Experiment with at least one new item from the https://p5js.org/reference/<br>
 [] Create a Github loging, include a README file in each repository with a link to the webpage, post a link to your Github account on Canvas<br>
 
-## Notes 
+## Notes from the workshop video
 IDE 
 - visual studio code (run by Microsoft)
 - VSCodium
@@ -33,7 +33,7 @@ clearInterval
 <br>
 Git / GitHub - working on same project (collaboration in creative computing project)
 
-## Process and Experimentation
+## Progress (Experimentation and problem solving)
 
 <img width="389" alt="image" src="https://github.com/user-attachments/assets/830b02d4-2901-46bd-b183-2b11c970b5b0" />
 <img width="855" alt="image" src="https://github.com/user-attachments/assets/5e03f5a8-6741-4129-9cd2-debb1e8f988a" />
@@ -49,5 +49,9 @@ searched how to draw an heart through coding.<br>
 I have watched a tutorial related to setTimeout() and setInterval.<br>
 https://www.daleseo.com/js-timer/
 
+## codes
+
 
 ## Furture Developement
+
+## Reference / other sources that helped me
